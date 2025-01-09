@@ -50,8 +50,50 @@
     </a>
 </div>
 
-<div align="center" id="stats">
-    <a href="https://samir.cx/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
-        <img src="https://github-readme-stats-opal-seven-98.vercel.app/api?username=04Samir&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=36BCF7FF&icon_color=05d6f2&ring_color=05d6f2&hide=stars&show=prs_merged"/>
+<div align="center" id="technologies">
+    <h3>
+        T E C H N O L O G I E S
+    </h3>
+    <a href="https://getbootstrap.com">
+        <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://expressjs.com">
+        <img src="https://skillicons.dev/icons?i=express&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://fastapi.tiangolo.com">
+        <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://git-scm.com">
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://jquery.com">
+        <img src="https://skillicons.dev/icons?i=jquery&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://kafka.apache.org">
+        <img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://maven.apache.org">
+        <img src="https://skillicons.dev/icons?i=maven&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://p5js.org">
+        <img src="https://skillicons.dev/icons?i=p5js&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://pytorch.org">
+        <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://reactjs.org">
+        <img src="https://skillicons.dev/icons?i=react&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://remix.run">
+        <img src="https://skillicons.dev/icons?i=remix&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://spring.io/projects/spring-boot">
+        <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://tailwindcss.com">
+        <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://tensorflow.org">
+        <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="25" width="25"></a>
     </a>
 </div>
