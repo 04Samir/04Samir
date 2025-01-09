@@ -97,3 +97,42 @@
         <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="25" width="25"></a>
     </a>
 </div>
+
+<hr/>
+
+<div id="projects">
+    <details open>
+        <summary><h4>What I'm Working On:</h4></summary>
+        <ul>
+            <li>
+                <a href="https://github.com/04Samir/samir.cx">Personal Website Revamp</a> - Migrating the Framework to Remix.TS & Redesigning the UI via TailWindCSS.
+                <br><i>Tech Stack: Remix.TS, TailWindCSS.</i>
+            </li>
+        </ul>
+    </details>
+    <details>
+        <summary><h4>Some Notable Projects of Mine:</h4></summary>
+        <ul>
+            <li>
+                <a href="https://github.com/04Samir/TradeTicker">TradeTicker</a> - A Modern Web-Application to Track Stock Prices with a Customisable Watchlist.  
+                <br><i>Tech Stack: Express.JS (TypeScript), TailwindCSS, jQuery, Chart.js, MySQL.</i>
+            </li>
+            <li>
+                <a href="https://github.com/04Samir/F1-Race-Standings-Prediction">F1 Race Standings Prediction</a> - Predicting Formula 1 Race Standings using LSTMs in PyTorch.  
+                <br><i>Tech Stack: PyTorch, Jupyter Notebook.</i>
+            </li>
+            <li>
+                <a href="https://github.com/04Samir/Hello-World">HelloWorld</a> - (WIP) A Simple Coding Tutorial Web-Application for Beginners.
+                <br><i>Tech Stack: React.JS, Bootstrap CSS, Python-FastAPI, MySQL.</i>
+            </li>
+            <li>
+                <a href="https://github.com/04Samir/Cat-Breed-Classification/tree/development">Cat Breed Classification</a> - (WIP) Classifying Cat Breeds using CNNs in TensorFlow.  
+                <br><i>Tech Stack: TensorFlow, Jupyter Notebook.</i>
+            </li>
+            <li>
+                <a href="https://github.com/04Samir/PostIt">PostIt</a> - A Basic Forum-Style Web-Application.  
+                <br><i>Tech Stack: Express.JS, Bootstrap, MySQL.</i>
+            </li>
+        </ul>
+    </details>
+</div>
