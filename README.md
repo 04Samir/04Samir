@@ -130,8 +130,8 @@
                 <br><i>Tech Stack: TensorFlow, Jupyter Notebook.</i>
             </li>
             <li>
-                <a href="https://github.com/04Samir/PostIt">PostIt</a> - A Basic Forum-Style Web-Application.  
-                <br><i>Tech Stack: Express.JS, Bootstrap, MySQL.</i>
+                <a href="https://github.com/04Samir/Drawing-Application">Drawing-Application</a> - A Simple Drawing-Canvas Application. 
+                <br><i>Tech Stack: p5.JS.</i>
             </li>
         </ul>
     </details>
