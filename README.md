@@ -101,18 +101,13 @@
 <hr/>
 
 <div id="projects">
-    <details open>
-        <summary><h4>What I'm Working On:</h4></summary>
-        <ul>
-            <li>
-                <a href="https://github.com/04Samir/samir.cx">Personal Website Revamp</a> - Migrating the Framework to Remix.TS & Redesigning the UI via TailWindCSS.
-                <br><i>Tech Stack: Remix.TS, TailWindCSS.</i>
-            </li>
-        </ul>
-    </details>
     <details>
         <summary><h4>Some Notable Projects of Mine:</h4></summary>
         <ul>
+            <li>
+                <a href="https://github.com/04Samir/samir.cx">samir.cx</a> - My Personal Portfolio Website to Showcase my Projects & Certifications.
+                <br><i>Tech Stack: Next.JS (TypeScript), TailWindCSS (v4), Framer-Motion.</i>
+            </li>
             <li>
                 <a href="https://github.com/04Samir/TradeTicker">TradeTicker</a> - A Modern Web-Application to Track Stock Prices with a Customisable Watchlist.  
                 <br><i>Tech Stack: Express.JS (TypeScript), TailwindCSS, jQuery, Chart.JS, MySQL.</i>
