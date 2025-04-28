@@ -109,12 +109,12 @@
                 <br><i>Tech Stack: Next.JS (TypeScript), TailWindCSS (v4), Framer-Motion.</i>
             </li>
             <li>
-                <a href="https://github.com/04Samir/TradeTicker">TradeTicker</a> - A Modern Web-Application to Track Stock Prices with a Customisable Watchlist.  
-                <br><i>Tech Stack: Express.JS (TypeScript), TailwindCSS, jQuery, Chart.JS, MySQL.</i>
+                <a href="https://github.com/04Samir/F1-Race-Forecasting">F1 Race Forecasting</a> - A Deep Learning Model for Predicting Formula 1 Race Outcomes.
+                <br><i>Tech Stack: PyTorch, NumPy, Pandas.</i>
             </li>
             <li>
-                <a href="https://github.com/04Samir/F1-Race-Standings-Prediction">F1 Race Standings Prediction</a> - Predicting Formula 1 Race Standings using LSTMs in PyTorch.  
-                <br><i>Tech Stack: PyTorch, Jupyter Notebook.</i>
+                <a href="https://github.com/04Samir/TradeTicker">TradeTicker</a> - A Modern Web-Application to Track Stock Prices with a Customisable Watchlist.  
+                <br><i>Tech Stack: Express.JS (TypeScript), TailwindCSS, jQuery, Chart.JS, MySQL.</i>
             </li>
             <li>
                 <a href="https://github.com/04Samir/Hello-World">Hello-World</a> - (WIP) A Simple Coding Tutorial Web-Application for Beginners.
