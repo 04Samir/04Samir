@@ -1,7 +1,7 @@
 <div align="center" id="header">
     <h1>
         <a href="https://samir.cx/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Samir!;A+CS+Student." alt="Typing SVG"/>
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=3FE3FF&center=true&vCenter=true&width=500&lines=Hi%2C+my+Name+is+Samir!;I'm+a+Software+Engineer." alt="Typing SVG" />
         </a>
     </h1>
 </div>
