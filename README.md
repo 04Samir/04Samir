@@ -10,7 +10,7 @@
     <h3>
         S O C I A L S
     </h3>
-    <a href="https://linkedin.com/in/04-Samir-Ali/">
+    <a href="https://linkedin.com/in/SamirTheSWE">
         <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="25" width="25"/>
     </a>
 </div>
@@ -105,27 +105,27 @@
         <summary><h4>Some Notable Projects of Mine:</h4></summary>
         <ul>
             <li>
-                <a href="https://github.com/04Samir/samir.cx">samir.cx</a> - My Personal Portfolio Website to Showcase my Projects & Certifications.
+                <a href="https://github.com/SamirTheSWE/samir.cx">samir.cx</a> - My Personal Portfolio Website to Showcase my Projects & Certifications.
                 <br><i>Tech Stack: Next.JS (TypeScript), TailWindCSS (v4), Framer-Motion.</i>
             </li>
             <li>
-                <a href="https://github.com/04Samir/F1-Race-Forecasting">F1 Race Forecasting</a> - A Deep Learning Model for Predicting Formula 1 Race Outcomes.
+                <a href="https://github.com/SamirTheSWE/F1-Race-Forecasting">F1 Race Forecasting</a> - A Deep Learning Model for Predicting Formula 1 Race Outcomes.
                 <br><i>Tech Stack: PyTorch, NumPy, Pandas.</i>
             </li>
             <li>
-                <a href="https://github.com/04Samir/TradeTicker">TradeTicker</a> - A Modern Web-Application to Track Stock Prices with a Customisable Watchlist.  
+                <a href="https://github.com/SamirTheSWE/TradeTicker">TradeTicker</a> - A Modern Web-Application to Track Stock Prices with a Customisable Watchlist.  
                 <br><i>Tech Stack: Express.JS (TypeScript), TailwindCSS, jQuery, Chart.JS, MySQL.</i>
             </li>
             <li>
-                <a href="https://github.com/04Samir/Hello-World">Hello-World</a> - (WIP) A Simple Coding Tutorial Web-Application for Beginners.
+                <a href="https://github.com/SamirTheSWE/Hello-World">Hello-World</a> - (WIP) A Simple Coding Tutorial Web-Application for Beginners.
                 <br><i>Tech Stack: React.JS, Bootstrap CSS, jQuery, Python-FastAPI, MySQL.</i>
             </li>
             <li>
-                <a href="https://github.com/04Samir/Cat-Breed-Classification/tree/development">Cat Breed Classification</a> - (WIP) Classifying Cat Breeds using CNNs in TensorFlow.  
+                <a href="https://github.com/SamirTheSWE/Cat-Breed-Classification/tree/development">Cat Breed Classification</a> - (WIP) Classifying Cat Breeds using CNNs in TensorFlow.  
                 <br><i>Tech Stack: TensorFlow, Jupyter Notebook.</i>
             </li>
             <li>
-                <a href="https://github.com/04Samir/Drawing-Application">Drawing-Application</a> - A Simple Drawing-Canvas Application. 
+                <a href="https://github.com/SamirTheSWE/Drawing-Application">Drawing-Application</a> - A Simple Drawing-Canvas Application. 
                 <br><i>Tech Stack: p5.JS.</i>
             </li>
         </ul>
